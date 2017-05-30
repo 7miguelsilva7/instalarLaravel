@@ -1,4 +1,4 @@
-# instalarLaravel
+# Instalar Laravel com Xampp
 
 ## PHP & Composer
 
